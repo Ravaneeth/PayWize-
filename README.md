@@ -10,7 +10,7 @@
 
 ![image](https://github.com/user-attachments/assets/efc64852-343d-4baf-865d-697068d2d933)
 
-*Similary the same message is stored in the messaginf broker
+*Similary the same message is stored in the messaging broker
 
 ![image](https://github.com/user-attachments/assets/2b2b462b-90a6-4b75-9167-05ba68305f88)
 
